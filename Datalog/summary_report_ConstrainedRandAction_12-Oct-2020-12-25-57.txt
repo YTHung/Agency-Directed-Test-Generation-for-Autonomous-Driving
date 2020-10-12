@@ -1,0 +1,24 @@
+======================================= 
+=========== Summary of Test =========== 
+
+Number of tests: 100 
+Number of agents: 5 
+Agent type: ConstrainedRandAction 
+Valid tests generated: 35 
+Test generation accuracy: 35.0% 
+collided tests generated: 11 
+collision rate: 11.0% 
+Average execute agent CPU time: 0.013518526554107665(s) 
+Average test generation time: 84.2(sim ticks) 
+Average distance: 19.399924620100357(m) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Living cost: -1 
+Road penalty: -5 
+Average agent score: -159.13 
+Max agent score: 548 
+Min agent score: -668 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Agent max speed: 4 units/s
+~~~~ Scores (All tests) ~~~~~~~~~~~~~~~ 
+95% confidence interval per agent: 
+======================================= 

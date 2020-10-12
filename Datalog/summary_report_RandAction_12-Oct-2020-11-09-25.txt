@@ -1,0 +1,24 @@
+======================================= 
+=========== Summary of Test =========== 
+
+Number of tests: 100 
+Number of agents: 10 
+Agent type: RandAction 
+Valid tests generated: 60 
+Test generation accuracy: 60.0% 
+collided tests generated: 14 
+collision rate: 14.0% 
+Average execute agent CPU time: 0.016673762798309327(s) 
+Average test generation time: 80.56666666666666(sim ticks) 
+Average distance: 19.794881867346717(m) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Living cost: -1 
+Road penalty: -5 
+Average agent score: -116.10 
+Max agent score: 793 
+Min agent score: -651 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Agent max speed: 4 units/s
+~~~~ Scores (All tests) ~~~~~~~~~~~~~~~ 
+95% confidence interval per agent: 
+======================================= 

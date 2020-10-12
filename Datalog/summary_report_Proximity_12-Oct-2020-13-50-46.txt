@@ -1,0 +1,24 @@
+======================================= 
+=========== Summary of Test =========== 
+
+Number of tests: 100 
+Number of agents: 5 
+Agent type: Proximity 
+Valid tests generated: 69 
+Test generation accuracy: 69.0% 
+collided tests generated: 29 
+collision rate: 29.0% 
+Average execute agent CPU time: 0.005678119659423828(s) 
+Average test generation time: 56.89855072463768(sim ticks) 
+Average distance: 14.916172824976522(m) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Living cost: -1 
+Road penalty: -5 
+Average agent score: -58.53 
+Max agent score: 189 
+Min agent score: -300 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Agent max speed: 4 units/s
+~~~~ Scores (All tests) ~~~~~~~~~~~~~~~ 
+95% confidence interval per agent: 
+======================================= 

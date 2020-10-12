@@ -1,0 +1,24 @@
+======================================= 
+=========== Summary of Test =========== 
+
+Number of tests: 100 
+Number of agents: 5 
+Agent type: ElectionSocialForce 
+Valid tests generated: 52 
+Test generation accuracy: 52.0% 
+collided tests generated: 36 
+collision rate: 36.0% 
+Average execute agent CPU time: 0.03892958641052246(s) 
+Average test generation time: 51.26923076923077(sim ticks) 
+Average distance: 15.42067736973428(m) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Living cost: -1 
+Road penalty: -5 
+Average agent score: -74.98 
+Max agent score: 603 
+Min agent score: -616 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Agent max speed: 4 units/s
+~~~~ Scores (All tests) ~~~~~~~~~~~~~~~ 
+95% confidence interval per agent: 
+======================================= 
